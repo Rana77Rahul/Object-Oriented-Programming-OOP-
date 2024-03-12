@@ -1,2 +1,2 @@
-# Object-Oriented-Programming-OOP-
-This repository serves as a comprehensive resource for learning and practicing object-oriented programming concepts in various programming languages. Whether you're new to OOP or looking to deepen your understanding, this repository provides examples, exercises, and projects to help you master OOP principles and techniques.
+# Object_Oriented_Programming_language
+Object-Oriented Programming (OOP) is a programming paradigm or style that is used in software development. It is not a separate field or domain by itself but rather a way of structuring and organizing code. OOP is commonly employed in various programming languages such as Java, C++, Python, and others. 
